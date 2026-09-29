@@ -1,5 +1,8 @@
 🚀 **Live Demo:** [View Live Project](https://practice-projects-homely-website-cl.vercel.app/)
 
+---
+
+
 ## 🖼️ Preview
 
 <img src="./assest/live_preview.png" alt="Pokémon Gen I — Pikachu UI" width="100%">
