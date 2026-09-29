@@ -2,7 +2,7 @@
 [View Live Project](https://assignment-1-liart-mu.vercel.app/)
 
 
-<img src="./asset/live_preview.png" alt="Pokémon Gen I — Pikachu UI" width="100%">
+<img src="./assest/live_preview.png" alt="Pokémon Gen I — Pikachu UI" width="100%">
 
 ---
 
