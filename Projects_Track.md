@@ -17,7 +17,7 @@
 * **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Assignment-1-medium)
 * **Live Demo:** [View Live Demo](https://assignment-1-medium.vercel.app/)
 
-### 🔴 Hard
+### 🔴 Hard 🚫
 
 * **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Practice-Projects/tree/main/homely-website-clone)
 * **Live Demo:** [View Live Demo](https://practice-projects-homely-website-cl.vercel.app/)
@@ -30,3 +30,18 @@
 * **Live Demo:** [View Live Demo](https://practice-projects-homely-website-cl.vercel.app/)
 
 ---
+
+## 4. Mini Hackathon 🚫
+
+* **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Mini-Hackathon)
+* **Live Demo:** [View Live Demo](https://mini-hackathon-rho-two.vercel.app/)
+
+---
+
+## 5. ShopSecure 🚫
+
+* **Repository:** [View on GitHub](https://github.com/Utkarsh1260/ShopSecure)
+* **Live Demo:** [View Live Demo](YOUR_LIVE_DEMO_LINK)
+
+---
+
