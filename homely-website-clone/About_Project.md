@@ -1,7 +1,4 @@
-## 🌐 Live
-
-🚀 **Live Demo:** [View Live Project](YOUR_LIVE_LINK_HERE)
-
+🚀 **Live Demo:** [View Live Project](https://practice-projects-homely-website-cl.vercel.app/)
 
 ## 🖼️ Preview
 
