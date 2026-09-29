@@ -3,9 +3,7 @@
 * **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Microsoft-Landing-Page-clone)
 * **Live Demo:** [View Live Demo](https://microsoft-landing-page-clone-pearl.vercel.app/)
 
-<br>
-<br>
-
+---
 
 ## 2. Assignment 1
 
@@ -24,13 +22,11 @@
 * **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Practice-Projects/tree/main/homely-website-clone)
 * **Live Demo:** [View Live Demo](https://practice-projects-homely-website-cl.vercel.app/)
 
-<br>
-<br>
+---
 
 ## 3. Homely Website Clone
 
 * **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Practice-Projects/tree/main/homely-website-clone)
 * **Live Demo:** [View Live Demo](https://practice-projects-homely-website-cl.vercel.app/)
 
-<br>
-<br>
+---
