@@ -7,12 +7,12 @@
 
 ## 2. Assignment 1
 
-### 🟢 Easy
+### 🟢 Easy (POKEMON GEN I)
 
 * **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Assignment-1)
 * **Live Demo:** [View Live Demo](https://assignment-1-liart-mu.vercel.app/)
 
-### 🟡 Medium
+### 🟡 Medium (Pokémon UI — Position Properties Practice)
 
 * **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Assignment-1-medium)
 * **Live Demo:** [View Live Demo](https://assignment-1-medium.vercel.app/)
