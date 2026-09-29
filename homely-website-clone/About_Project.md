@@ -1,5 +1,4 @@
-**Live Demo:**
-[View Live Project](https://assignment-1-liart-mu.vercel.app/)
+## 🌐 Live Preview
 
 
 <img src="./assest/live_preview.png" alt="Pokémon Gen I — Pikachu UI" width="100%">
