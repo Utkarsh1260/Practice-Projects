@@ -6,9 +6,9 @@
 
 ---
 
-🏡 Homely — Real Estate & Accommodation UI Recreation
+## 🏡 Homely — Real Estate & Accommodation UI Recreation
 
-📌 Project Overview
+## 📌 Project Overview
 
 Project Type: Frontend UI / Real Estate Accommodation Landing Page
 
@@ -20,85 +20,51 @@ The primary objective of this project was to strengthen fundamental frontend dev
 
 The project also integrates Remix Icon through its CDN for interface icons and uses image assets from local files and Unsplash for accommodation imagery.
 
-🎯 Project Objective
+---
+
+
+## 🎯 Project Objective
 
 The project was created as a practical exercise to understand how different UI sections can be structured and visually composed into a polished accommodation website.
 
-Main Focus
+## Main Focus
 
-HTML5 page structure
+* HTML5 page structure
+* CSS3 styling and layout
+* Flexbox
+* Responsive-width concepts using flex
+* calc() for section sizing
+* Background images
+* Image positioning with background-size and background-position
+* Spacing with padding, margin, gap
+* Border radius and visual hierarchy
+* Absolute positioning
+* Hover interactions
+* CSS transitions
+* Box shadows
+* Typography and sizing
+* Icon integration using Remix Icon
+* Accommodation card composition
+* Property pricing and information layouts
 
-CSS3 styling and layout
+---
 
-Flexbox
+## 🛠️ Technologies Used
 
-Responsive-width concepts using flex
+### Technology
 
-calc() for section sizing
+* **HTML5** — Page structure and semantic organization
+* **CSS3** — Styling, layout, spacing, and visual presentation
+* **Flexbox** — Navigation, hero layout, cards, and content alignment
+* **CSS calc()** — Dynamic section height calculation
+* **CSS Background Images** — Property and accommodation visuals
+* **Remix Icon** — Navigation, rating, arrow, furniture, and amenities icons
+* **PNG / Image Assets** — Branding and property imagery
+* **Unsplash Images** — Accommodation photographs
 
-Background images
+---
 
-Image positioning with background-size and background-position
-
-Spacing with padding, margin, gap
-
-Border radius and visual hierarchy
-
-Absolute positioning
-
-Hover interactions
-
-CSS transitions
-
-Box shadows
-
-Typography and sizing
-
-Icon integration using Remix Icon
-
-Accommodation card composition
-
-Property pricing and information layouts
-
-🛠️ Technologies Used
-
-Technology
-
-Purpose
-
-HTML5
-
-Page structure and semantic organization
-
-CSS3
-
-Styling, layout, spacing, and visual presentation
-
-Flexbox
-
-Navigation, hero layout, cards, and content alignment
-
-CSS calc()
-
-Dynamic section height calculation
-
-CSS Background Images
-
-Property and accommodation visuals
-
-Remix Icon
-
-Navigation, rating, arrow, furniture, and amenities icons
-
-PNG / Image Assets
-
-Branding and property imagery
-
-Unsplash Images
-
-Accommodation photographs
-
-📊 Project Metrics
+## 📊 Project Metrics
 
 1 HTML document
 
@@ -134,19 +100,13 @@ Accommodation photographs
 
 Multiple hover and transition interactions
 
-12px main page side padding
-
-55px main page horizontal padding
-
-45px navigation height
-
-60px hero heading size
-
-70px accommodation heading size
-
-25px card gap used in multiple layouts
-
-20px primary content gap in the hero section
+* 12px main page side padding
+* 55px main page horizontal padding
+* 45px navigation height
+* 60px hero heading size
+* 70px accommodation heading size
+* 25px card gap used in multiple layouts
+* 20px primary content gap in the hero section
 
 🧩 Key CSS Concepts Implemented
 
@@ -165,21 +125,13 @@ nav {
 
 This allows the navigation logo, menu links, and action buttons to remain separated into their respective areas.
 
-Flexbox is also used for:
-
-Hero layout
-
-Navigation links
-
-Button groups
-
-Property cards
-
-Accommodation categories
-
-Amenities
-
-Text and image combinations
+* Hero layout
+* Navigation links
+* Button groups
+* Property cards
+* Accommodation categories
+* Amenities
+* Text and image combinations
 
 2. Flexible Column Sizing
 
@@ -307,83 +259,74 @@ border-radius: 30px;
 
 This styling is used for navigation buttons, rating elements, hero controls, and other interactive components.
 
-🎨 UI Components
+---
+
+## 🎨 UI Components
 
 The interface contains several visually distinct components:
 
-Homely Brand / Logo Area
+* Homely Brand / Logo Area
+* Top Navigation Menu
+* Login and Contact Buttons
+* Hero Rating Badge
+* Hero Heading
+* Hero Description
+* Primary CTA Buttons
+* Trusted Company Logos
+* Accommodation Preview Cards
+* Featured Accommodation Panel
+* Accommodation Category Filters
+* Property Rating Badge
+* Property Description / Host Area
+* Property Pricing
+* Basic Property Information
+* Cleanliness Information
+* Amenities Information
+* Book Now Button
 
-Top Navigation Menu
+---
 
-Login and Contact Buttons
 
-Hero Rating Badge
+## 🧠 Key Learnings
 
-Hero Heading
+* This project helped reinforce several important frontend concepts:
 
-Hero Description
+* Structuring a multi-section webpage with HTML5
 
-Primary CTA Buttons
+* Building layouts using Flexbox
 
-Trusted Company Logos
+* Understanding how flex: 1 and different flex values affect available space
 
-Accommodation Preview Cards
+* Using calc() for section sizing
 
-Featured Accommodation Panel
+* Combining position: relative and position: absolute
 
-Accommodation Category Filters
+* Working with CSS background images
 
-Property Rating Badge
+* Controlling image size and positioning
 
-Property Description / Host Area
+* Using gap, padding, and margin for consistent spacing
 
-Property Pricing
+* Creating pill-shaped buttons and badges
 
-Basic Property Information
+* Using border-radius for modern UI styling
 
-Cleanliness Information
+* Applying box shadows to create depth
 
-Amenities Information
+* Creating hover interactions with transitions
 
-Book Now Button
+* Using transform: translateY() for micro-interactions
 
-🧠 Key Learnings
+* Integrating external icon libraries through a CDN
 
-This project helped reinforce several important frontend concepts:
+* Combining content, imagery, pricing, and property information into a single UI
 
-Structuring a multi-section webpage with HTML5
+* Translating a visual reference into reusable HTML/CSS structures
 
-Building layouts using Flexbox
+---
 
-Understanding how flex: 1 and different flex values affect available space
 
-Using calc() for section sizing
-
-Combining position: relative and position: absolute
-
-Working with CSS background images
-
-Controlling image size and positioning
-
-Using gap, padding, and margin for consistent spacing
-
-Creating pill-shaped buttons and badges
-
-Using border-radius for modern UI styling
-
-Applying box shadows to create depth
-
-Creating hover interactions with transitions
-
-Using transform: translateY() for micro-interactions
-
-Integrating external icon libraries through a CDN
-
-Combining content, imagery, pricing, and property information into a single UI
-
-Translating a visual reference into reusable HTML/CSS structures
-
-🔍 Development Approach
+## 🔍 Development Approach
 
 The project was developed through an iterative frontend design process:
 
@@ -411,7 +354,10 @@ Refine Visual Composition
 
 The focus was not only on making the page visually appealing, but also on understanding how each layout and styling property contributes to the final UI.
 
-📁 Project Structure
+---
+
+
+## 📁 Project Structure
 
 Homely/
 │
@@ -429,37 +375,43 @@ Homely/
 
 The project also references accommodation images hosted through Unsplash URLs directly inside the HTML/CSS.
 
-🚀 Future Improvements
+---
 
-Potential improvements for future iterations:
 
-Add full responsive layouts for mobile, tablet, and desktop screens
+## 🚀 Future Improvements
 
-Add a functional hamburger menu for smaller screens
+* Potential improvements for future iterations:
 
-Add JavaScript interactions for navigation and booking
+* Add full responsive layouts for mobile, tablet, and desktop screens
 
-Make accommodation cards reusable and data-driven
+* Add a functional hamburger menu for smaller screens
 
-Add functional login and contact forms
+* Add JavaScript interactions for navigation and booking
 
-Add real property search and filtering
+* Make accommodation cards reusable and data-driven
 
-Add image sliders or property galleries
+* Add functional login and contact forms
 
-Add smooth scrolling between sections
+* Add real property search and filtering
 
-Improve accessibility and semantic HTML usage
+* Add image sliders or property galleries
 
-Replace placeholder content with real accommodation data
+* Add smooth scrolling between sections
 
-Optimize locally hosted and external images
+* Improve accessibility and semantic HTML usage
 
-Add backend support for bookings and property management
+* Replace placeholder content with real accommodation data
 
-Convert repeated property layouts into reusable components
+* Optimize locally hosted and external images
 
-📌 Project Type
+* Add backend support for bookings and property management
+
+* Convert repeated property layouts into reusable components
+
+---
+
+
+## 📌 Project Type
 
 Frontend UI Recreation / Real Estate & Accommodation Landing Page
 
