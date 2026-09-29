@@ -1,17 +1,15 @@
-🚀 **Live Demo:** [View Live Project](https://practice-projects-homely-website-cl.vercel.app/)
-
----
-
-
-## 🖼️ Preview
-
-<img src="./assest/live_preview.png" alt="Pokémon Gen I — Pikachu UI" width="100%">
-
----
-
 # 🏡 Homely — Real Estate & Accommodation UI Recreation
 
 ## 📌 Project Overview
+
+
+**Live Demo:**
+[View Live Project](https://practice-projects-homely-website-cl.vercel.app/)
+
+
+<img src="./asset/live_preview.png" alt="Pokémon Gen I — Pikachu UI" width="100%">
+
+---
 
 A frontend UI recreation built with HTML5 and CSS3, inspired by a modern real-estate and accommodation layout. It includes navigation, hero content, property cards, pricing, amenities, and booking-focused sections.
 
