@@ -2,6 +2,15 @@
 
 ## 📌 Project Overview
 
+
+**Live Demo:**
+[View Live Project](https://assignment-1-hard.vercel.app/)
+
+
+<img src="./asset/live_preview.png" alt="im" width="100%">
+
+---
+
 A frontend UI recreation built with HTML5 and CSS3, inspired by a modern textile and fashion product page. It includes navigation, product details, color options, pricing, rating, shopping action, image cards, and feature highlights.
 
 ## 🎯 Project Objective
