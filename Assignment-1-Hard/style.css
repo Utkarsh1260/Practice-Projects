@@ -1,0 +1,481 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.582);
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+}
+
+body {
+    padding: 20px 60px 20px 150px;
+    min-height: 100vh;
+    background-color: #F9F5F2;
+    display: flex;
+    flex-direction: column;
+}
+
+
+.dd {
+
+   
+    height: 100%;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+nav {
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    height: 40px;
+
+    flex-shrink: 0;
+}
+
+nav .left img {
+    width: 80%;
+    height: 80%;
+}
+
+nav .left {
+    width: 150px;
+    height: 40px;
+}
+
+.middle {
+    display: flex;
+    gap: 30px;
+}
+
+nav .middle a {
+    font-size: 14px;
+}
+
+
+nav .right {
+    font-size: 30px;
+    display: flex;
+    gap: 30px;
+}
+
+section {
+    flex: 1;
+    min-height: 0;
+    gap: 10px;
+    display: flex;
+    padding: 15px 0 8px 0;
+}
+
+section .right {
+    display: flex;
+    /* background-color: red; */
+    height: 100%;
+    width: 60%;
+    gap: 3px;
+
+}
+
+section .left {
+    width: 40%;
+    /* background-color: red; */
+    height: 100%;
+}
+
+
+
+
+footer {
+    /* background-color: brown; */
+    flex: 0.18;
+    display: flex;
+    padding: 0 200px 0 0;
+    gap: 80px;
+}
+
+footer .left {
+    /* background-color: lightblue; */
+    flex: 0.9;
+}
+
+footer .right {
+    /* background-color: lightcoral; */
+    flex: 1;
+}
+
+
+.txt {
+    /* background-color: lightblue; */
+    flex: 0.2;
+}
+
+.img {
+    /* background-color: lightgreen; */
+    flex: 1;
+    position: relative;
+}
+
+
+
+/* cards */
+
+.card {
+    /* background-color: lightcoral; */
+    flex: 0.3;
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+    padding: 10px 0 25px 10px;
+    align-items: flex-end;
+}
+
+
+
+.c1 {
+    background-color: #DDEBFF;
+    flex: 1;
+    width: 100px;
+    border-radius: 20px;
+}
+
+.c2 {
+    background-color: #DFF7E3;
+
+}
+
+.c3 {
+    background-color: #FFE0E0;
+
+}
+
+.c4 {
+    background-color: #371d1d;
+
+}
+
+section .left .left-content p:first-child span i {
+    font-size: 30px;
+
+}
+
+section .left .left-content p:first-child i {
+    font-size: 30px;
+
+}
+
+
+
+
+section .left .left-content p:first-child {
+    font-size: 16px;
+    color: black;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    letter-spacing: 2px;
+}
+
+
+.mid h1 {
+    font-size: 60px;
+    line-height: 0.7;
+    color: black;
+
+}
+
+
+section .left .left-content {
+    width: 80%;
+    /* background-color: aqua; */
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.cc1-container {
+    display: flex;
+    gap: 15px;
+    width: fit-content;
+}
+
+.clr {
+    display: flex;
+    gap: 15px;
+}
+
+.cc1 {
+
+    width: 20px;
+    height: 20px;
+    border-radius: 50%;
+}
+
+.clr {
+    display: flex;
+}
+
+.clr p {
+    font-size: 80px;
+
+}
+
+.mid p {
+    width: 230px;
+}
+
+.mid {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.bottom p:nth-child(2) {
+    width: 230px;
+
+}
+
+.bottom p:first-child {
+    display: flex;
+
+}
+
+.b-dd {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+
+.b-dd hr {
+    width: 5px;
+    height: 1px;
+}
+
+.bottom {
+    display: flex;
+    flex-direction: column;
+    gap: 5px;
+}
+
+
+
+.c1 {
+    background-image: url("https://cdn.shopify.com/s/files/1/0006/0420/9215/files/neck.jpg?v=1677189138&width=3024&utm_source=chatgpt.com");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.c2 {
+    background-image: url("https://plus.unsplash.com/premium_photo-1684445034670-b36aca25c25a?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8dG93ZWx8ZW58MHx8MHx8fDA%3D");
+}
+
+.c3 {
+    background-image: url("https://media.istockphoto.com/id/1182505963/photo/traditional-indian-fabric-store-colorful-traditional-indian-textile-fabric-wrap-scarfs.webp?a=1&b=1&s=612x612&w=0&k=20&c=hmxtzQGhrMRI0G_DcgpCEDX-a30LWvLPjYQCsgIgqS0=");
+}
+
+.c4 {
+    background-image: url("https://images.unsplash.com/photo-1582794543139-8ac9cb0f7b11?w=600&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8Zmxvd2VyfGVufDB8fDB8fHww");
+}
+
+section .right .img {
+    border-radius: 20px;
+    background-image: url("https://cdn.shopify.com/s/files/1/0006/0420/9215/files/neck.jpg?v=1677189138&width=3024&utm_source=chatgpt.com");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.ln-div {
+    height: 50px;
+    background-color: black;
+    width: 2px;
+}
+
+section .right .txt {
+    margin-bottom: 20px;
+    font-size: 24px;
+    flex: 0 0 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    align-self: flex-end;
+    writing-mode: vertical-rl;
+    transform: rotate(180deg);
+    white-space: nowrap;
+}
+
+
+ .footry .left{
+   color: black;
+    display: flex;
+    align-items: center;
+justify-content: center;
+    gap: 40px;
+    font-weight: 500;
+}
+
+
+.f-d{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 10px;
+}
+
+.f-d i{
+height: 20px;
+    background-color: #E6E4DB;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 20px;
+    padding: 20px;
+}
+
+.f-l{
+    background-color: black;
+    width: 1px;
+    height: 60px;
+}
+
+body footer .right{
+    display: flex;
+    flex-direction: row;
+     align-items: center;
+
+    gap: 20px;
+}
+
+body footer .right .f-d{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+footer p{
+    font-size: 14px;
+}
+
+footer .right{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    border-radius: 20px;
+}
+
+
+
+
+
+
+.footry .right .f-d i {
+    background-color: transparent;
+    font-size: 28PX;
+    color: #d2d1cd;
+}
+
+
+/* positioning objects  */
+
+nav .right{
+    position: relative;
+}
+
+
+.price-box {
+    width: 70px;
+    height: 40px;
+    background-color: white;
+    color: black;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 16px;
+    font-weight: 600;
+       position: absolute;
+    left: 20px;
+    top: 20px;
+}
+
+.count-box {
+    width: 15px;
+    height: 15px;
+    background-color: #68745a;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 10px;
+       position: absolute;
+    top: 5px;
+    left:16px;
+}
+
+.bag-box {
+    width: 100px;
+    height: 100px;
+    background-color: #68745a;
+    border-radius: 50%;
+  
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+  
+    position: absolute;
+    top: 280px;
+    left: 350px;
+    padding: 10px;
+}
+
+.bag-box i,
+.bag-box span {
+    color: white;
+      font-size: 25px;
+}
+
+.bag-box span {
+    color: white;
+    letter-spacing: normal;
+    font-size: 14px;
+}
+
+.rating-box {
+    
+    width: 170px;
+    height: 40px;
+    background-color: white;
+    border-radius: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    font-size: 16px;
+    position: absolute;
+    top: 20px;
+    left:245px
+}
+
+.rating-box span{
+color: black;
+}
+
+.rating-box span:last-child {
+    color: #68745a;
+    letter-spacing: 2px;
+}
+
+

@@ -1,0 +1,79 @@
+nav .middle a {
+    position: relative;
+    padding: 6px 12px;
+}
+
+nav .middle a::before {
+    content: "";
+    position: absolute;
+    inset: 0;
+    border: 1.5px solid #7B826C;
+    border-radius: 50px;
+    transform: scaleX(0);
+    transform-origin: left;
+    transition: transform 0.35s ease;
+}
+
+nav .middle a:hover::before {
+    transform: scaleX(1);
+}
+
+nav .middle a:hover {
+    color: #7B826C;
+}
+
+
+section .right .img:hover {
+    transform: scale(1.03);
+    box-shadow: 0 0 20px rgba(123, 130, 108, 0.6);
+}
+
+
+
+/* 3 color circles */
+.cc1 {
+    transition: 0.3s ease;
+}
+
+.cc1:hover {
+    transform: scale(1.2);
+    box-shadow: 0 0 12px currentColor;
+}
+
+
+/* Main big image */
+section .right .img {
+    transition: 0.4s ease;
+}
+
+section .right .img:hover {
+    box-shadow: 0 0 20px rgba(123, 130, 108, 0.6);
+}
+
+
+/* 4 image cards */
+.card .c1 {
+    transition: 0.3s ease;
+}
+
+.card .c1:hover {
+    transform: scale(1.08);
+    box-shadow: 0 0 15px rgba(123, 130, 108, 0.6);
+}
+
+
+/* Top menu */
+nav .middle a {
+    transition: 0.3s ease;
+}
+
+nav .middle a:hover {
+    color: #7B826C;
+    text-shadow: 0 0 8px rgba(123, 130, 108, 0.7);
+}
+
+
+section .right .img {
+    transition: 0.4s ease;
+}
+
