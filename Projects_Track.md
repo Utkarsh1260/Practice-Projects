@@ -17,10 +17,10 @@
 * **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Assignment-1-medium)
 * **Live Demo:** [View Live Demo](https://assignment-1-medium.vercel.app/)
 
-### 🔴 Hard 🚫
+### 🔴 Hard (Cotton Weave - Fashion Product UI Recreation)
 
-* **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Practice-Projects/tree/main/homely-website-clone)
-* **Live Demo:** [View Live Demo](https://practice-projects-homely-website-cl.vercel.app/)
+* **Repository:** [View on GitHub](https://github.com/Utkarsh1260/Practice-Projects/tree/main/Assignment-1-Hard)
+* **Live Demo:** [View Live Demo](https://assignment-1-hard.vercel.app/)
 
 ---
 
