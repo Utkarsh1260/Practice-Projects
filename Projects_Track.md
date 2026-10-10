@@ -45,3 +45,13 @@
 
 ---
 
+# 6. Weekly Interview Preparation Projects
+
+## W1 — Interview Practice Tracker
+**Date:** 10/10/2026
+
+- **Repository:** [View on GitHub](https://github.com/Utkarsh1260/AI-Powered-Full-Stack-Developer/tree/main/Weekly-Interview-Preparation/Machine-Code/W1-Interview_Practice_Tracker)
+- **Live Demo:** [View Live Demo](https://interview-practice-tracker-red.vercel.app/)
+
+---
+
