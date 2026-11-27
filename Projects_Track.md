@@ -56,7 +56,7 @@
 ---
 
 ## W2 — Responsive Kanban Board  🚫
-**Date:** 22/10/2026
+**Date:** 22/10/2026.
 
 - **Repository:** [View on GitHub](https://github.com/Utkarsh1260/AI-Powered-Full-Stack-Developer/tree/main/Weekly-Interview-Preparation/Machine-Code/W2-Responsive-Kanban-Board)
 - **Live Demo:** [View Live Demo](https://w2-responsive-kanban-board.vercel.app/)
